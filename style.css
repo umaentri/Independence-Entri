@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    padding: 60px;
+    background-color: #1abc9c;
+    font-size: 30px;
+  }
+  h1{
+    color: blue;
+  }
+  .panel{
+    height:60px;
+    background-color: rgb(214, 212, 213);
+    color: #06038D;
+    display: flex;
+    align-items: center;
+    justify-content: safe;
+    font-weight: bold;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  rgb(212, 213, 214);
+    color: rgb(12, 1, 1);
+    text-align: center;
+ }
